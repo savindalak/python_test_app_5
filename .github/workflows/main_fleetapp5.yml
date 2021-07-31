@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'fleetapp5'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_929eed0ccf5b4122a3fc64dce27676bb }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_a4b6665696444d9c8ea60f86ac9b3f58 }}
